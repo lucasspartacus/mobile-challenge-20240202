@@ -20,7 +20,7 @@
 Primeiramente rode o seguinte comando para clonar o respositorio do github
 
 ```
-git clone https://github.com/lucasspartacus/coodeshDictionary.git
+git clone https://github.com/lucasspartacus/mobile-challenge-20240202.git -b lucasspartacus
 ```
 Após isso rode o comando a abaixo para baixar todas as dependências do projeto
 
