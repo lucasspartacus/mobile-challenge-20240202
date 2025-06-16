@@ -36,3 +36,5 @@ flutter run
 Vá ao seu simulador mobile ou dispositivo móvel.
 Realize cadastro usando E-mail e senha, realize buscas de palavras em inglês rolando a tela ou no campo de pesquisa, verifique exemplos de uso da palavra e seus usos, além de escutar a pronúncia das palavras e adicione ou remova palavras dos seus favoritos. 
 
+This is a challenge by Coodesh
+
